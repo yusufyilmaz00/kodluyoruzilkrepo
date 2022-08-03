@@ -6,6 +6,17 @@ Projemin üstünde çalışabilmek için projeyi indirebilirsiniz.
 
 `git clone https://github.com/yusufyilmaz00/kodluyoruzilkrepo.git`
 
+# Kullanım
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
-![ScreenShot](https://user-images.githubusercontent.com/95571859/182728198-8aa26ff1-efc4-48ae-b890-d24d777ab810.png)
+Linux için:
+```
+cd kodluyoruzilkrepo
+code .
+```
 
+# Katkıda Bulunun
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+# Lisans
+[MIT](https://choosealicense.com/licenses/mit/)
