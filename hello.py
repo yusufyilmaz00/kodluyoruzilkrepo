@@ -1,0 +1,1 @@
+print("Tüm kod severlere selam olsun !")
